@@ -16,4 +16,4 @@ To finish this lab, I needed to:
 --------------------------------------------------------------------------------------------------------------------------
 FSM Chart and Diagram:
 
-Simulation Results:
+Simulation Results: https://imgur.com/raVB8ti
